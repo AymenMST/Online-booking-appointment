@@ -1,0 +1,38 @@
+.container{
+  width: 100%;
+height: auto;
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  margin-top: 50px;
+}
+.container p {
+  font-size : 60px;
+}
+
+.desc {
+  font-size: 40px;
+}
+.container a img {
+  height: 150px;
+  text-decoration: none;
+}
+.container .link {
+float : left;
+
+width: 50%;
+
+padding: 0% 0%;
+margin: auto;
+
+}
+.container a:hover {
+  height: 150px;
+  text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+  .choice{
+
+    font-size : 40px;
+  }
+
+}

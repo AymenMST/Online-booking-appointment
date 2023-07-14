@@ -1,0 +1,35 @@
+#logo{
+  height: 50px;
+}
+/*color around menu */
+.collapse  ul li a:hover ,
+.collapse  ul li a:focus {
+  background-color: white;  /*padding of links (home .. etc)*/
+  color :  #01EDC9;
+}
+.dropdown :hover , .dropdown :focus {
+  background-color: white;  /*padding of links (home .. etc)*/
+  color :  #01EDC9;
+}
+
+.navbar {
+  font-family: 'Comfortaa', cursive;
+}
+
+/* navbar */
+.icon-bar{
+  background-color: black ;
+}
+nav{
+  margin: 0;
+}
+.navbar {
+    background-color: white ;
+    border-bottom-color:#01EDC9;
+    margin-bottom: 0;
+    padding-bottom: 50px;
+}
+/* Title */
+.navbar .navbar-brand {
+    color: #2A91E0;
+}

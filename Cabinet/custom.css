@@ -1,0 +1,26 @@
+#img{
+   width:30%;
+}
+.space{
+  width: device-width;
+height : auto ;
+    background-image : url(pic11.jpg);
+  background-repeat: no-repeat;
+  background-size:  cover;
+  margin-top: 0px;
+  height:500px;
+
+  text-align: center;
+}
+
+
+@media screen and (max-width: 768px) {
+.space {
+  height:250px;
+
+}
+#img{
+   width:80%;
+}
+
+}

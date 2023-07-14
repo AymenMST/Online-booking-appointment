@@ -1,0 +1,16 @@
+table {
+margin-top: 100px;
+
+}
+th:hover {background-color: #01EDC9;}
+
+td {
+    height: 50px;
+    text-align: center;
+    background-color: #e6f7ff;
+}
+th {
+    height: 50px;
+    background-color: #e6f7ff;
+    text-align: center;
+}
